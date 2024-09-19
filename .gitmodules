@@ -1,0 +1,3 @@
+[submodule "ViewStat"]
+	path = ViewStat
+	url = https://github.com/mrchipset/ViewStat.git
