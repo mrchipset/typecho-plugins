@@ -1,3 +1,6 @@
 [submodule "ViewStat"]
 	path = ViewStat
 	url = https://github.com/mrchipset/ViewStat.git
+[submodule "NavMenu"]
+	path = NavMenu
+	url = https://github.com/mrchipset/NavMenu.git
