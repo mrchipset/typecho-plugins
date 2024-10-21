@@ -7,3 +7,6 @@
 [submodule "CustomHtmlPlugin"]
 	path = CustomHtmlPlugin
 	url = https://github.com/mrchipset/Typecho-custom-html-plugin.git
+[submodule "GithubCorner"]
+	path = GithubCorner
+	url = https://github.com/mrchipset/GithubCorner.git
