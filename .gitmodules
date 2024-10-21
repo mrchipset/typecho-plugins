@@ -4,3 +4,6 @@
 [submodule "NavMenu"]
 	path = NavMenu
 	url = https://github.com/mrchipset/NavMenu.git
+[submodule "CustomHtmlPlugin"]
+	path = CustomHtmlPlugin
+	url = https://github.com/mrchipset/Typecho-custom-html-plugin.git
